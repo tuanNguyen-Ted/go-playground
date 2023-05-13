@@ -3,8 +3,5 @@
 /miscellaneous/QuizGame/.idea/modules.xml
 /miscellaneous/QuizGame/.idea/QuizGame.iml
 /miscellaneous/QuizGame/.idea/vcs.xml
-/.idea/.gitignore
-/.idea/go-playground.iml
-/.idea/modules.xml
+/.idea/*
 /miscellaneous/QuizGame/QuizGame
-/.idea/vcs.xml
